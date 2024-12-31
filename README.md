@@ -1,0 +1,1 @@
+This repository demonstrates a common arithmetic overflow bug in COBOL and its solution.  The bug occurs when a numeric variable exceeds its defined size, leading to incorrect results or program termination. The solution involves appropriate checks and handling of potential overflows.
